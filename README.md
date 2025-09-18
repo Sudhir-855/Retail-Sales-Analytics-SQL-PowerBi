@@ -58,8 +58,7 @@ The `sql/bookstore_queries.sql` file contains:
 - Most frequently ordered books
 - Top customers and top authors
 
----[Download zomato_project.sql] https://drive.google.com/file/d/1ivih-QTm87h-uaylCOQDR1zg6btrNxax/view?usp=sharing
-
+---[Download bookstore_project.sql] https://drive.google.com/file/d/1ivih-QTm87h-uaylCOQDR1zg6btrNxax/view?usp=sharing
 
 ## How To Use
 **1)Download the Repository:** git clone https://github.com/sudhir-855/bookstore-data-analysis.git
